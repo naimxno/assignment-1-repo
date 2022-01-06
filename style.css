@@ -121,11 +121,16 @@ body{
 
 .my-info{
   width: 45%;
-  padding: 30px 50px;
+  padding: 20px 30px;
   padding-left:200px ;
   box-sizing: border-box;
   border-radius: 20px;
   background-color: rgb(228, 233, 248);
+}
+.signature h1{
+  font-family: 'Licorice', cursive;
+  margin: 0;
+  padding-left: 250px;
 }
 .my-info div{
   margin-bottom: 20px;
