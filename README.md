@@ -1,2 +1,2 @@
-## developer-protfolio https://naimxno.github.io/assignment-2/
+## developer-protfolio https://naimxno.github.io/developer-protfolio/
 HTML & CSS USED IN THIS PROJECT.
